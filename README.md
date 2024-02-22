@@ -3,8 +3,8 @@ React.useState() 그리고 onChange 활용하여. 계산기를 만드세요.
 
 # Requiremnt 
 
-- useState
-- onChange
+- useState 사용
+- onChange 사용
 - `<input>` tag
 - `<select>` tag
 
